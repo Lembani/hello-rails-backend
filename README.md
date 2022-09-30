@@ -4,6 +4,8 @@
 
 > A Hello World app build with Rails.
 
+## Link to Front-end: [Front-end](https://github.com/Lembani/hello-rails-frontend)
+
 ## Built With
 
 - Ruby on Rails
